@@ -21,7 +21,7 @@ public class StringVsArrayString {
         for(int i=0;i<animals.size();i++){
             System.out.println(animals.get(i));
         }
-        // or 
+        // or : for each
         for(String i : animals){
             System.out.println(i);
         }
