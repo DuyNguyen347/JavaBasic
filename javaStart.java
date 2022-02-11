@@ -34,5 +34,8 @@ public class javaStart {
                 System.out.print(Cars[i][j]+ " ");
             }
         }
+        // final = const in C++ (can't update value)
+        final double pi = 3.1432;
+        System.out.println(pi);
     }
 }
